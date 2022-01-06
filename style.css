@@ -1,0 +1,13 @@
+.title {
+  background-color: coral;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 12px;
+}
+
+.image {
+  border: cyan 2px solid;
+  border-radius: 24px;
+  padding: 12px;
+  box-shadow: 5px 10px 18px #888888;
+}
